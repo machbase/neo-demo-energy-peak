@@ -1,0 +1,7 @@
+{
+  "host": "127.0.0.1",
+  "port": 5656,
+  "user": "sys",
+  "password": "<DB_PASSWORD>",
+  "address": "127.0.0.1:5680"
+}

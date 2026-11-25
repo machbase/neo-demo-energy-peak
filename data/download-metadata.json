@@ -1,0 +1,26 @@
+{
+  "source_url": "https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption",
+  "download_url": "https://archive.ics.uci.edu/static/public/235/individual%2Bhousehold%2Belectric%2Bpower%2Bconsumption.zip",
+  "resolved_download_url": "https://archive.ics.uci.edu/static/public/235/individual%2Bhousehold%2Belectric%2Bpower%2Bconsumption.zip",
+  "downloaded_at_utc": "2026-11-17T00:19:32.546112+00:00",
+  "files": {
+    "individual_household_electric_power_consumption.zip": {
+      "bytes": 20640916,
+      "sha256": "9f84b46ade8a2d8e1286ec4b2b6c2987a45a755c59f263be3b3b3d10dfbda3ff"
+    },
+    "household_power_consumption.txt": {
+      "bytes": 132960755,
+      "sha256": "4259c9d7ece5dbee9ab8d53682baac68d791c864f0f64a52b4043cb3b90894b7"
+    }
+  },
+  "header": "Date;Time;Global_active_power;Global_reactive_power;Voltage;Global_intensity;Sub_metering_1;Sub_metering_2;Sub_metering_3",
+  "data_rows": 2075259,
+  "first_record": "16/12/2006;17:24:00;4.216;0.418;234.840;18.400;0.000;1.000;17.000",
+  "last_record": "26/11/2010;21:02:00;0.932;0.000;239.550;3.800;0.000;0.000;0.000",
+  "zip_crc_verified": true,
+  "transformations": "ZIP decompression only; original text bytes preserved",
+  "global_active_power_missing": {
+    "question_mark": 25979,
+    "empty": 0
+  }
+}
